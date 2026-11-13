@@ -18,9 +18,7 @@
 </tr>
 </table>
 
-<h3 align="center" style="margin-top: 15px;">
-<b><i> ❝ Consistency beats perfection. Keep building, keep growing. ❞</i></b>
-</h3>
+
 
 <h3>About Me 🧑</h3>
 
