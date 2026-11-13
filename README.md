@@ -133,15 +133,6 @@
 <br>
 <div align="center">
 <a href="https://github.com/davidson2kcc">
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=davidson2kcc&show_icons=true&hide_border=true&theme=dark&title_color=58A6FF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/davidson2kcc">
-<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=davidson2kcc&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=58A6FF&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800"/>
-</a>
-</div>
-<br>
-<div align="center">
-<a href="https://github.com/davidson2kcc">
 <img width="70%" src="https://streak-stats.demolab.com?user=davidson2kcc&theme=tokyonight&hide_border=true"/>
 </a>
 </div>
