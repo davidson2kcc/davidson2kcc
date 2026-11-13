@@ -132,11 +132,7 @@
 </a>
 </div>
 <br>
-<div align="center">
-<a href="https://github.com/davidson2kcc">
-<img src="https://github-profile-trophy.vercel.app/?username=davidson2kcc&theme=darkhub&no-frame=true"/>
-</a>
-</div>
+
 </details>
 
 ---
