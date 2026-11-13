@@ -15,8 +15,8 @@
    with Data Structures &amp; Algorithms.
  </p>
 </td>
-<td style="vertical-align: top;">
- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&width=300&lines=%24+whoami+%E2%86%92+davidson2kcc;Full-Stack+%2B+AI+%26+DS;Co-founder+%40+WebGenesis;Building+in+public" alt="Typing animation">
+<td style="vertical-align: top;" align="center">
+ <img src="https://raw.githubusercontent.com/davidson2kcc/davidson2kcc/main/assets/profile.png" width="220" alt="Praveenkumar A">
 </td>
 </tr>
 </table>
