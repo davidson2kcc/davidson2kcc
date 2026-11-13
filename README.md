@@ -16,7 +16,7 @@
  </p>
 </td>
 <td style="vertical-align: top;" align="center">
- <img src="https://raw.githubusercontent.com/davidson2kcc/davidson2kcc/main/assets/profile.png" width="220" alt="Praveenkumar A">
+ <img src="https://raw.githubusercontent.com/davidson2kcc/davidson2kcc/main/Hajime%20no%20Ippo.jpg" width="220" alt="Praveenkumar A">
 </td>
 </tr>
 </table>
