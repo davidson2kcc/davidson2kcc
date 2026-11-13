@@ -112,7 +112,7 @@
 
 | Project | Description |
 |:--|:--|
-| **[WebGenesis](https://github.com/davidson2kcc/WebGenesis)** | Web development initiative focused on modern business websites and digital experiences |
+| **WebGenesis** | Web development initiative focused on modern business websites and digital experiences |
 | **Vertex Builders** | Modern responsive website for a construction business |
 | **BuildCraftPro** | Construction-focused website project |
 | **Portfolio Projects** | Responsive websites and interactive web experiences |
@@ -142,7 +142,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/TODO" target="_blank">
+<a href="https://www.linkedin.com/in/praveenkumar-a-b89422338/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:alagirpraveen@gmail.com" target="_blank">
