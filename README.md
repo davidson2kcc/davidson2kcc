@@ -177,8 +177,6 @@
 </div>
 
 <br>
-<div align="center">
-<p>Created with 🖤 by <a href="https://github.com/davidson2kcc">davidson2kcc</a></p>
-</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
